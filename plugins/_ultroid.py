@@ -14,18 +14,18 @@ from telethon.errors import (
 from . import LOG_CHANNEL, LOGS, Button, asst, eor, get_string, ultroid_cmd
 
 REPOMSG = """
-• **ULTROID USERBOT** •\n
-• Repo - [Click Here](https://github.com/TeamUltroid/Ultroid)
-• Addons - [Click Here](https://github.com/TeamUltroid/UltroidAddons)
-• Support - @UltroidSupportChat
+• **DIRGAN USERBOT** •\n
+• Repo - [Click Here](https://github.com/EkooNihh/Dirgan-Userbot)
+• Addons - [Click Here](https://github.com/EkooNihh/Dirgan-Userbot)
+• Support - @xtydirgn
 """
 
 RP_BUTTONS = [
     [
-        Button.url(get_string("bot_3"), "https://github.com/TeamUltroid/Ultroid"),
-        Button.url("Addons", "https://github.com/TeamUltroid/UltroidAddons"),
+        Button.url(get_string("bot_3"), "https://github.com/EkooNihh/Dirgan-Userbot"),
+        Button.url("Addons", "https://github.com/EkooNihh/Dirgan-Userbot"),
     ],
-    [Button.url("Support Group", "t.me/UltroidSupportChat")],
+    [Button.url("Support Channel", "t.me/Xtydirgn")],
 ]
 
 ULTSTRING = """🎇 **Thanks for Deploying Ultroid Userbot!**
