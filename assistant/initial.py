@@ -1,23 +1,23 @@
 # Ultroid - UserBot
 # Copyright (C) 2021-2022 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/EkooNihh/Dirgan-Userbot/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/EkooNihh/Dirgan-Userbot/blob/main/LICENSE/>.
 
 import re
 
 from . import *
 
 STRINGS = {
-    1: """🎇 **Thanks for Deploying Ultroid Userbot!**
+    1: """🎇 **Thanks for Deploying Dirgan-Userbot Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
-    2: """🎉** About Ultroid**
+    2: """🎉** About Dirgan-Userbot**
 
 🧿 Ultroid is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
 
-❣ Made by **@TeamUltroid**""",
+❣ Made by **@xtydrgn**""",
     3: """**💡• FAQs •**
 
 -> [Username Tracker](https://t.me/xtydirgn)
