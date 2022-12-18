@@ -32,14 +32,14 @@ from . import _ult_cache
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupportChat"),
+        Button.url("• Repo •", url="https://github.com/EkooNihh/Dirgan-Userbot"),
+        Button.url("• Support •", url="t.me/xtydirgn"),
     ],
 ]
 
-ofox = "https://graph.org/file/231f0049fcd722824f13b.jpg"
-gugirl = "https://graph.org/file/0df54ae4541abca96aa11.jpg"
-ultpic = "https://graph.org/file/4136aa1650bc9d4109cc5.jpg"
+ofox = "https://telegra.ph//file/e896ff18c84edb09f6b43.jpg"
+gugirl = "https://telegra.ph//file/e896ff18c84edb09f6b43.jpg"
+ultpic = "https://telegra.ph//file/e896ff18c84edb09f6b43.jpg"
 
 apis = [
     "QUl6YVN5QXlEQnNZM1dSdEI1WVBDNmFCX3c4SkF5NlpkWE5jNkZV",
@@ -390,7 +390,7 @@ async def piston_run(event):
         description=output,
         text=f"• **Language:**\n`{lang}`\n\n• **Code:**\n`{code}`\n\n• **Result:**\n`{output}`",
         thumb=wb(
-            "https://graph.org/file/871ee4a481f58117dccc4.jpg", 0, "image/jpeg", []
+            "https://telegra.ph//file/e896ff18c84edb09f6b43.jpg", 0, "image/jpeg", []
         ),
         buttons=Button.switch_inline("Fork", query=event.text, same_peer=True),
     )
