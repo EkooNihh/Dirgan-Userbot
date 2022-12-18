@@ -10,7 +10,7 @@ import re
 from . import *
 
 STRINGS = {
-    1: """🎇 **Thanks for Deploying Dirgan-Userbot Userbot!**
+    1: """🎇 **Thanks for Deploying Dirgan-Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
     2: """🎉** About Dirgan-Userbot**
