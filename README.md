@@ -36,15 +36,8 @@
 - Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
 ---
 
-## Deploy to Heroku
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.Dirgan-Userbot.tech)
-
-## Deploy to Okteto
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
-
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/EkooNihh/Dirgan-Userbot)
+#### Deploy on Heroku
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/EkooNihh/4buttons-File"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
@@ -114,7 +107,7 @@ One of the following database:
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+* [![Run on Repl.it](https://replit.com/badge/github/EkooNihh/Dirgan-Userbot)](https://replit.com/@TeamUltroid/UltroidStringSession)
 * Linux : `wget -O session.py https://git.io/JY9JI && python3 session.py`
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `wget -O session.py https://git.io/JY9JI && python session.py`
@@ -126,11 +119,3 @@ Different ways to get your `SESSION`:
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
 Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
----
-
-# Credits
-* [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
-* [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
-
-> Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
