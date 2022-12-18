@@ -1,7 +1,7 @@
 # Ultroid - UserBot
 # Copyright (C) 2021-2022 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/EkooNihh/Dirgan-Userbot/ >
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
@@ -44,7 +44,7 @@ from . import *
 # -------------------------- Akinator ----------------------- #
 
 games = {}
-aki_photo = "https://graph.org/file/3cc8825c029fd0cab9edc.jpg"
+aki_photo = "https://telegra.ph//file/e896ff18c84edb09f6b43.jpg"
 
 
 @ultroid_cmd(pattern="akinator")
