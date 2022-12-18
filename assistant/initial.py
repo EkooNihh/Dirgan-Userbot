@@ -20,7 +20,7 @@ STRINGS = {
 ❣ Made by **@TeamUltroid**""",
     3: """**💡• FAQs •**
 
--> [Username Tracker](https://t.me/UltroidUpdates/24)
+-> [Username Tracker](https://t.me/xtydirgn)
 -> [Keeping Custom Addons Repo](https://t.me/UltroidUpdates/28)
 -> [Disabling Deploy message](https://t.me/UltroidUpdates/27)
 -> [Setting up TimeZone](https://t.me/UltroidUpdates/22)
@@ -32,13 +32,13 @@ STRINGS = {
 -> [Also Check](https://t.me/UltroidUpdates/14)
 
 **• To Know About Updates**
-  - Join @TeamUltroid.""",
+  - Join @Xtydirgn.""",
     4: f"""• `To Know All Available Commands`
 
   - `{HNDLR}help`
   - `{HNDLR}cmds`""",
     5: """• **For Any Other Query or Suggestion**
-  - Move to **@UltroidSupportChat**.
+  - Move to **@Xtydirgn**.
 
 • Thanks for Reaching till END.""",
 }
