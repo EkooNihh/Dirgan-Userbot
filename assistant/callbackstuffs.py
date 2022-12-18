@@ -1,7 +1,7 @@
 # Ultroid - UserBot
 # Copyright (C) 2021-2022 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/EkooNihh/Dirgan-Userbot/ >
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
@@ -50,7 +50,7 @@ def text_to_url(event):
 
 _buttons = {
     "otvars": {
-        "text": "Other Variables to set for @TeamUltroid:",
+        "text": "Other Variables to set for @xtydrgn:",
         "buttons": [
             [
                 Button.inline("Tᴀɢ Lᴏɢɢᴇʀ", data="taglog"),
@@ -161,7 +161,7 @@ _buttons = {
         ],
     },
     "oofdm": {
-        "text": "About [Dual Mode](https://t.me/UltroidUpdates/18)",
+        "text": "About [Dual Mode](https://t.me/xtydirgn/01)",
         "buttons": [
             [
                 Button.inline("Dᴜᴀʟ Mᴏᴅᴇ Oɴ", "dmof"),
@@ -348,7 +348,7 @@ async def changes(okk):
                 language="md",
             )
             return await okk.edit(
-                f"**• Ultroid Userbot •**{cli}", file=img, buttons=button
+                f"**• Dirgan-Userbot •**{cli}", file=img, buttons=button
             )
         except Exception as er:
             LOGS.exception(er)
