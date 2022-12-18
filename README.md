@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph//file/e896ff18c84edb09f6b43.jpg" alt="TeamUltroid Logo">
+  <img src="https://telegra.ph//file/e896ff18c84edb09f6b43.jpg" alt="Dirgan Userbot Logo">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
@@ -8,18 +8,18 @@
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
 [![](https://img.shields.io/badge/Ultroid-v0.7-darkgreen)](#)
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
+[![Stars](https://img.shields.io/github/stars/EkooNihh/Dirgan-Userbot?style=flat-square&color=yellow)](https://github.com/EkooNihh/Dirgan-Userbot/stargazers)
+[![Forks](https://img.shields.io/github/forks/EkooNihh/Dirgan-Userbot?style=flat-square&color=orange)](https://github.com/EkooNihh/Dirgan-Userbot/fork)
+[![Size](https://img.shields.io/github/repo-size/EkooNihh/Dirgan-Userbot?style=flat-square&color=green)](https://github.com/EkooNihh/Dirgan-Userbot/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.3-blue)](https://www.python.org/)
-[![CodeFactor](https://www.codefactor.io/repository/github/teamultroid/ultroid/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ultroid/overview/main)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltroid/Ultroid/graphs/commit-activity)
-[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
+[![CodeFactor](https://www.codefactor.io/repository/github/EkooNihh/Dirgan-Userbot/badge/main)](https://www.codefactor.io/repository/github/EkooNihh/Dirgan-Userbot/overview/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/EkooNihh/Dirgan-Userbot/graphs/commit-activity)
+[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/EkooNihh/Dirgan-Userbot?style=flat-square)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EkooNihh/Dirgan-Userbot)
+[![Contributors](https://img.shields.io/github/contributors/EkooNihh/Dirgan-Userbot?style=flat-square&color=green)](https://github.com/EkooNihh/Dirgan-Userbot/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)   
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
+[![Sparkline](https://stars.medv.io/EkooNihh/Dirgan-Userbot.svg)](https://stars.medv.io/EkooNihh/Dirgan-Userbot)
 ----
 
 # Deploy
@@ -39,12 +39,12 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.Dirgan-Userbot.tech)
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroid)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/EkooNihh/Dirgan-Userbot)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
